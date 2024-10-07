@@ -1,0 +1,54 @@
+{
+	"workbench.editor.showTabs": "single",
+	"workbench.colorTheme": "Dracula Theme Soft",
+	"workbench.iconTheme": "symbols",
+	"workbench.sideBar.location": "right",
+	// "workbench.activityBar.visible": false,
+	"workbench.statusBar.visible": false,
+	"editor.hideCursorInOverviewRuler": true,
+	"editor.scrollbar.vertical": "visible",
+	"editor.overviewRulerBorder": false,
+	"editor.insertSpaces": false,
+	"editor.tabSize": 2,
+	"editor.detectIndentation": false,
+	"editor.guides.indentation": true,
+	"editor.minimap.enabled": false,
+	"editor.matchBrackets": "never",
+	"editor.fontFamily": "Cascadia Code",
+	"editor.fontLigatures": true,
+	"editor.formatOnSave": true,
+	"editor.codeActionsOnSave": {
+		"source.fixAll": "explicit"
+	},
+	"editor.cursorStyle": "block",
+	"editor.wordWrap": "on",
+	"editor.wordWrapColumn": 60,
+	"editor.linkedEditing": true,
+	"editor.cursorBlinking": "expand",
+	"workbench.startupEditor": "none",
+	"files.autoSave": "onWindowChange",
+	"editor.stickyScroll.enabled": true,
+	"notebook.stickyScroll.enabled": true,
+	"editor.cursorSmoothCaretAnimation": "on",
+	"symbols.hidesExplorerArrows": false,
+	"workbench.productIconTheme": "fluent-icons",
+	"javascript.inlayHints.functionLikeReturnTypes.enabled": true,
+	"javascript.referencesCodeLens.showOnAllFunctions": true,
+	"javascript.format.insertSpaceBeforeFunctionParenthesis": true,
+	"typescript.format.insertSpaceBeforeFunctionParenthesis": true,
+	"explorer.fileNesting.enabled": true,
+	"[json]": {
+		"editor.defaultFormatter": "vscode.json-language-features"
+	},
+	"[astro]": {
+		"editor.defaultFormatter": "astro-build.astro-vscode"
+	},
+	"[shellscript]": {
+		"editor.defaultFormatter": "foxundermoon.shell-format"
+	},
+	"workbench.tree.enableStickyScroll": true,
+	"tailwindCSS.emmetCompletions": true,
+	"diffEditor.ignoreTrimWhitespace": false,
+	"git.ignoreRebaseWarning": true,
+	"github.copilot.editor.enableAutoCompletions": true
+}
